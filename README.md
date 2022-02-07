@@ -2,6 +2,22 @@
 
 # Hello ! I'm Bashar Alrefae , I'm Computer Engineering Student , I'm A Real Madrid fan , and I love programming !
 
+my hobbies :
+1. Football
+2. Video Games
+
+languages I prefer :
+
+* 'python'
+* 'Csharp'
+
+
+
+![image](https://www.istockphoto.com/photo/profile-view-of-young-female-programmer-working-on-computer-software-in-the-office-gm1125595211-295965259)
+
+
+
+
 
 
 
