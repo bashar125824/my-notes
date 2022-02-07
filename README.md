@@ -8,12 +8,12 @@ my hobbies :
 
 languages I prefer :
 
-* 'python'
-* 'Csharp'
+* `python`
+* `Csharp`
 
 
 
-![image](https://www.istockphoto.com/photo/profile-view-of-young-female-programmer-working-on-computer-software-in-the-office-gm1125595211-295965259)
+![[image]](https://www.istockphoto.com/photo/profile-view-of-young-female-programmer-working-on-computer-software-in-the-office-gm1125595211-295965259)
 
 
 
