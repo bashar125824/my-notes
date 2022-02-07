@@ -13,7 +13,7 @@ languages I prefer :
 
 
 
-![[image]](https://www.istockphoto.com/photo/profile-view-of-young-female-programmer-working-on-computer-software-in-the-office-gm1125595211-295965259)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.softlabsgroup.com%2Fhire-dedicated-developers&psig=AOvVaw0VOyywHMh8kgTS_2_JIdKr&ust=1644336150039000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCYiNv77fUCFQAAAAAdAAAAABAD)
 
 
 
